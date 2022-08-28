@@ -1,0 +1,15 @@
+# Editors
+.vscode
+.idea
+
+# Node
+node_modules
+
+# Build
+.next
+.cache
+dist
+
+# Config
+.env
+.vercel
